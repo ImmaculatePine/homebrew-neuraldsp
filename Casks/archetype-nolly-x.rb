@@ -1,4 +1,4 @@
-cask "neuraldsp-archetype-nolly-x" do
+cask "archetype-nolly-x" do
   version "1.0.2"
   sha256 "f6cb49e1702a374b841e0c2b74005d735e28109a2879b8c2511be61f8ebf2832"
 

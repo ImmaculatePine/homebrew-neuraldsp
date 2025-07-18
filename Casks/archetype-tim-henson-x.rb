@@ -1,4 +1,4 @@
-cask "neuraldsp-archetype-tim-henson-x" do
+cask "archetype-tim-henson-x" do
   version "1.0.1"
   sha256 "bbcb6dabde8de931be9782d20da4f57ba2dd9de20744f12f278db4eecf407c32"
 
